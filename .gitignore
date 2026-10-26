@@ -1,0 +1,22 @@
+# Publish only this reviewed release allowlist.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/CHANGELOG.md
+!/build.mjs
+!/install.mjs
+!/preview.png
+!/Curvy Demo.ecproj
+!/src/
+/src/*
+!/src/core.js
+!/src/host.js
+!/src/panel.js
+!/dist/
+/dist/*
+!/dist/Curvy.jsx
+!/dist/Curvy.jsx.sha256
+!/assets/
+/assets/*
+!/assets/demo-preview.png
